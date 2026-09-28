@@ -1,5 +1,5 @@
-## 🏋️ KALYO
-# 🙍‍♂️ Autor: Renan Henricson
+# 🏋️ KALYO
+ 🙍‍♂️ Autor: Renan Henricson
 Protótipo de um sistema de treino e acompanhamento de calorias.
 
 ## 📱 Sobre o projeto
