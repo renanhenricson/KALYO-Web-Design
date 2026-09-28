@@ -47,8 +47,8 @@ O protótipo foi desenvolvido no **Canva**, utilizando formas, textos, ícones, 
 ### Protótipo
 
 As telas abaixo mostram exemplos da interface criada para o Kalyо.
-**banner inicial**
-<p align="center"> ![tela](assets/tela-1.png)
+<p align="center"> ! **banner inicial**
+[tela](assets/tela-1.png)
 
 **tela de login**
 ![tela](assets/tela-2.png)
