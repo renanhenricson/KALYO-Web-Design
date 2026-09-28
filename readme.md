@@ -50,7 +50,8 @@ As telas abaixo mostram exemplos da interface criada para o Kalyо.
 <p align="center">
   **banner inicial**
 </p>
-[tela](assets/tela-1.png)
+
+![tela](assets/tela-1.png)
 
 **tela de login**
 ![tela](assets/tela-2.png)
