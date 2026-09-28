@@ -1,6 +1,4 @@
 # 🏋️ KALYO
-# 🙍‍♂️ Autor: Renan Henricson
-
 Protótipo de um sistema de treino e acompanhamento de calorias.
 
 ## 📱 Sobre o projeto
@@ -19,9 +17,7 @@ O design foi adaptado para a proposta do KALYO, utilizando principalmente preto,
 
 O protótipo foi desenvolvido no **Canva**, utilizando formas, textos, ícones, cores e imagens para criar as telas.
 
-## 📸 Telas
-
-As imagens do protótipo estão disponíveis na pasta `assets`.
+# 🙍‍♂️ Autor: Renan Henricson
 
 ## 🎯 Objetivo
 
